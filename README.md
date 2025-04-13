@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 👋 Hi, I’m @SivaAshwinNA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -12,6 +13,10 @@ SivaAshwinNA/SivaAshwinNA is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your change
 
 Preparing for the GitHub exam
+=======
+# Repository
+I have made a change in this repository
+>>>>>>> upstream/main
 =======
 # Repository
 I have made a change in this repository
