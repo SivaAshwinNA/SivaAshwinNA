@@ -8,6 +8,5 @@
 
 <!---
 SivaAshwinNA/SivaAshwinNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
-This issue is for improving the README.md file.
+You can click the Preview link to take a look at your change
+
