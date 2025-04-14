@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @SivaAshwinNA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @SivaAshwinNA  
+- 🌱 I’m currently learning Git & GitHub collaboratively!  
+- 📫 Reach me at: sivaashwin.na@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving real-world problems through code!  
+Ashwin
 
-<!---
-SivaAshwinNA/SivaAshwinNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your change
-
-Preparing for the GitHub exam
+> **This file is updated as part of Experiment 5 - Collaborative Repository Management using Git.**
