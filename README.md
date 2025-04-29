@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+feature/login-auth
+HEAD
  HEAD
 # Practicing Git
 
@@ -7,6 +8,7 @@
 - 📫 Reach me at: sivaashwin.na@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving real-world problems through code!  
+-  main
 HEAD
 - 👋 Hi, I’m @SivaAshwinNA
 - 👀 I’m interested in ...
@@ -29,6 +31,11 @@ Ashwin
 Preparing for the lab exam
 Preparing
 Preparing for the GitHub exam
+ feature/login-auth
+# Repository
+I have made a change in this repository
+upstream/main
+
 HEAD
 Model Lab Exam
 7287920 (Fix#13:Model Lab Exam)
@@ -37,8 +44,9 @@ Siva Ashwin
 I have made a change in this repository
 upstream/main
  9ab9383 (Add login authentication feature)
-=======
+
 # Repository
 I have made a change in this repository
 hai my fellos
->>>>>>> upstream/main
+upstream/main
+main
