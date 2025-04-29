@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
 # Practicing Git
 
@@ -36,3 +37,8 @@ Siva Ashwin
 I have made a change in this repository
 upstream/main
  9ab9383 (Add login authentication feature)
+=======
+# Repository
+I have made a change in this repository
+hai my fellos
+>>>>>>> upstream/main
