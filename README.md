@@ -1,3 +1,4 @@
+ HEAD
 # Practicing Git
 
 - 👋 Hi, I’m @SivaAshwinNA  
@@ -5,13 +6,31 @@
 - 📫 Reach me at: sivaashwin.na@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving real-world problems through code!  
+HEAD
+- 👋 Hi, I’m @SivaAshwinNA
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+SivaAshwinNA/SivaAshwinNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your change
+ 9ab9383 (Add login authentication feature)
 
 HEAD
-> **This file is updated as part of Experiment 5 - Collaborative Repository Management using Git.**
+ **This file is updated as part of Experiment 5 - Collaborative Repository Management using Git.**
 Ashwin
 Preparing for the lab exam
 Preparing
 Preparing for the GitHub exam
+HEAD
 Model Lab Exam
 7287920 (Fix#13:Model Lab Exam)
 Siva Ashwin
+# Repository
+I have made a change in this repository
+upstream/main
+ 9ab9383 (Add login authentication feature)
