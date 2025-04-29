@@ -1,6 +1,6 @@
 feature/login-auth
 HEAD
- HEAD
+HEAD
 # Practicing Git
 
 - 👋 Hi, I’m @SivaAshwinNA  
@@ -17,7 +17,7 @@ HEAD
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Siva
+Siva ashwin
 
 SivaAshwinNA/SivaAshwinNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your change
@@ -30,9 +30,8 @@ HEAD
 Ashwin
 Preparing for the lab exam
 Preparing
-<<<<<<< HEAD
+<HEAD
 Siva
-=======
 Preparing for the GitHub exam
  feature/login-auth
 # Repository
@@ -53,4 +52,4 @@ I have made a change in this repository
 hai my fellos
 upstream/main
 main
->>>>>>> a5ad7e0a2e87ce0262abb645562ba4a88d08d08b
+a5ad7e0a2e87ce0262abb645562ba4a88d08d08b
